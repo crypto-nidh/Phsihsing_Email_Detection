@@ -1,0 +1,15 @@
+0. Save the csv file on desktop
+
+1. Open project folder in vs code
+
+2. Open vs code terminal in phishing folder
+
+3. write ->
+
+a) .\myenv\Scripts\activate
+
+b) cd .\SpamDetection
+
+c) python manage.py runserver
+
+4. open the link in browser (eg > http://127.0.0.1:8000/)
